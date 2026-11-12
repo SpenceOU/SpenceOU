@@ -87,3 +87,11 @@ A backend data processor that:
 - Prepare for backend or cybersecurity internships
 
 ---
+
+## 📫 Let's Connect
+
+- **GitHub**: https://github.com/SpenceOU
+- **LinkedIn**: https://www.linkedin.com/in/spencerutomi/
+- **Email**: spencer.oge.utomi@gmail.com
+
+---
