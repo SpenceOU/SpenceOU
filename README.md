@@ -95,3 +95,12 @@ A backend data processor that:
 - **Email**: spencer.oge.utomi@gmail.com
 
 ---
+
+## 🧠 Beyond Coding
+- College athlete (basketball)
+- Entrepreneur building clothing brands
+- Focused on discipline, consistency, and self-improvement
+
+---
+
+⭐ Thanks for visiting my profile!
