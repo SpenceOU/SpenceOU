@@ -1,4 +1,4 @@
-﻿# Hello! I'm Spencer Utomi 👋
+# Hey there, I'm Spencer Utomi, an aspiring backend developer! 👋
 
 I'm a Computer Science student at Villa Maria College, learning backend development, cybersecurity, and building applications that solve real-world problems.
 
